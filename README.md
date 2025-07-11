@@ -1,6 +1,8 @@
 # PlayStation Covers
 
-This is just a mirror for the urls of the PlayStation covers thanks to [xlenore](https://github.com/xlenore) all rights go to that person
+This is just a mirror for the urls of the PlayStation covers thanks to [xlenore](https://github.com/xlenore) 
+
+All rights go to that person!!
 
 Also works on [Duckstation](https://duckstation.org) and [NetherSX2](https://github.com/Trixarian/NetherSX2-classic) Android
 
