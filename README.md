@@ -12,18 +12,18 @@ Open Duckstation or NetherSX2 > Side menu > Download covers > Input url > Downlo
 
 Default Covers
 
-`https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg`
+```https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg```
 
 3D Covers
 
-`https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png`
+```https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png```
 
 # PS2 - NetherSX2
 
 Defaul Covers
 
-`https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg`
+```https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg```
 
 3D Covers
 
-`https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png`
+```https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png```
